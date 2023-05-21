@@ -4,6 +4,8 @@ configuration {
   font: "MesloLGS Nerd Font Medium 15";
   show-icons: true;
   icon-theme: "Papirus"; 
+
+  kb-cancel: "Super_L";
 }
 
 @theme "/dev/null"
